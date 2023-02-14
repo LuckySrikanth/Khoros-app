@@ -1,0 +1,26 @@
+.messageCard {
+    background-color: transparent;
+    border: 2px solid white;  
+    padding: auto;
+    margin: 10px;
+    color: white;
+}
+.mainContainer {
+    background-image: url("../assets/wood-1759566.jpg");
+    background-repeat: repeat;
+    background-position: cover;
+    padding: 5px;
+}
+h1 {
+    font-size: 15px;
+    font-family: "Sans-serif";
+    color: white!;
+}
+h2 {
+    font-size: 15px;
+    font-family: "Sans-serif";
+    color: white!;
+}
+.link {
+    color: white;
+}

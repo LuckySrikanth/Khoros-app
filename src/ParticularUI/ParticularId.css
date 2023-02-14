@@ -1,0 +1,39 @@
+.particularIdCard {
+    display: flex;
+    flex-direction: row;
+}
+p{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;   
+}
+
+.p{
+    color: red;
+    font-size: 15px;
+    font-weight: 600;
+  }
+span {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto";
+    color: white;
+}
+.back-btn {
+    display: flex;
+    justify-content: flex-end;
+}
+.backButton {
+    background-color: azure;
+    color: black;
+}
+.oneHalfCard {
+    width: 55%;
+} 
+.AnotherHalfCard {
+    width: 45%;
+    padding: 8px;
+}
+.body-content {
+    font-size: 12px;
+}

@@ -1,0 +1,12 @@
+.enterValid {
+    font-size: 15px;
+    font-family: "Sans-serif";
+    color: red;
+  }
+  .messageCard {
+    background-color: aliceblue;
+    border: 2px solid white;  
+    padding: auto;
+    margin: 10px;
+    color: white;
+  }
